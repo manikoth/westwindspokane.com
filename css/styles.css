@@ -229,5 +229,24 @@ iframe, figure img {
 	.cbp-so-side img {
 		max-width: 100%;
 	}
+	
+	header .logo {
+		float: none;
+		margin-bottom: .5em;
+	}
+	
+	header {
+		position: static;
+		text-align: center;
+	}
+
+	header nav ul {
+		float: none;
+	}
+	
+	.cbp-so-scroller {
+		margin-top: -1em;	
+	}
+	
 }
 
