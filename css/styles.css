@@ -250,3 +250,8 @@ iframe, figure img {
 	
 }
 
+/* Banner */
+.banner {
+	width: 100%;
+	text-align: center;
+}
